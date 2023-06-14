@@ -10,7 +10,7 @@
 
  <h3>Contact me! ✉️</h3>
  
- <a href="https://github.com/JulianLizarazo" >
+ <a href="https://www.linkedin.com/in/julian-pinilla-76a11427b/" target="blank" >
  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin" width="140"   />
  </a>
  </div>
