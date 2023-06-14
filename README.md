@@ -1,6 +1,6 @@
 <h2 align="center">¡Hi, I'm Julian Lizarazo! 💻</h2>
 
- <p align="center" width="20%">I'm <strong>Fullstack developer</strong> specialized in <strong>frontend</strong> and i'm currently finishing my degree in Systems Engineering at the University of Cundinamarca. Visit my <a href="https://github.com/JulianLizarazo" target:"_blank">Portfolio!</a> 💼</p> 
+ <p align="center" width="20%">I'm <strong>Fullstack developer</strong> specialized in <strong>frontend</strong> and i'm currently finishing my degree in Systems Engineering at the University of Cundinamarca. Visit my <a href="https://portfolio-julianlizarazo.vercel.app" target="blank">Portfolio!</a> 💼</p> 
 
 
 
